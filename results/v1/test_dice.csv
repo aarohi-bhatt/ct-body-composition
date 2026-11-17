@@ -1,0 +1,7 @@
+class,test_dice
+subcutaneous,0.980
+muscle,0.948
+abdominal cavity,0.978
+thoracic cavity,0.983
+bone,0.941
+mean (foreground),0.966
