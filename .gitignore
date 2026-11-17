@@ -1,0 +1,24 @@
+# Data never goes in this repo (size + source licenses). Download it with notebooks/01_get_saros_data.ipynb
+data/
+raw/
+processed/
+*.nii
+*.nii.gz
+*.npz
+*.dcm
+
+# Model weights (shared separately, if at all)
+models/
+*.pt
+*.pth
+*.ckpt
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
